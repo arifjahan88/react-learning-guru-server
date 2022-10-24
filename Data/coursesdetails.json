@@ -1,0 +1,54 @@
+[
+    {
+      "id": "0110",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Introduction to JavaScript",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
+      "details": "Programming is a way to talk to computers. A language like Hindi, English or Bengali can be used to talk to a human but for computers we need straightforward instructions. How to execute JavaScript? JavaScript can be executed right inside one's browser. You can open the JavaScript console and start writing JavaScript there.Another way to execute JavaScript is a runtime like Node.js which can be installed and used to run JavaScript code.Yet another way to execute JavaScript is by inserting it inside <script> tag of an HTML document."
+    },
+    {
+      "id": "0220",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 500,
+      "title": "Variables in JavaScript | JavaScript Courses",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--OCyrclK5--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tbvb84dqy2rqfap0b69.jpeg",
+      "details": "What is a Variable? A variable is a container that stores a value. This is very similar to the containers used to store rice, water and oats (Treat this as an analogy!) The value of a JavaScript variable can be changed during the execution of a program. Rules for choosing variables names Letters, digits, underscores and $ sign allowed. Must begin with a $, _ or a letter. JavaScript reserved words cannot be used as a variable name. Harry & haRRy are different variables (case sensitive)"
+    },
+    {
+      "id": "0330",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 658,
+      "title": "Primitives and Objects in JavaScript | JavaScript Courses",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://www.freecodecamp.org/news/content/images/2022/01/Purple-Minimal-We-Are-Hiring-Twitter-Post-1.gif",
+      "details": "Primitive Data Types are a set of basic data types in JavaScript. Object is a non-primitive datatype in JavaScript. These are 7 primitive datatypes in JavaScript: Null Number String Symbol Undefined Boolean BigInt                  Object An object in JavaScript can be created as follows:"
+    },
+    {
+      "id": "0440",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "JavaScript Operators and Expressions | JavaScript Courses",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://images.ctfassets.net/pzhspng2mvip/6mejefuDxsYa3HwYGjFAky/9c155339607084aa5e96240e30564c68/part-one-new.png?w=800&q=50",
+      "details": "Comments in JavaScript Sometimes we want our programs to contain a text which is not executed by the JS Engine. Such a text is called comment in JavaScript."
+    }
+]

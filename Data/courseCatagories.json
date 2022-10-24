@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "coursename": "Web Development"
+    },
+    {
+      "id": "02",
+      "coursename": "Mobile Development"
+    },
+    {
+      "id": "03",
+      "coursename": "Beat Python"
+    },
+    {
+      "id": "04",
+      "coursename": "Basic Programming"
+    },
+    {
+      "id": "05",
+      "coursename": "Machine Learning"
+    },
+    {
+      "id": "06",
+      "coursename": "Competitive Programming"
+    },
+    {
+      "id": "07",
+      "coursename": "Basic Java"
+    },
+    {
+      "id": "08",
+      "coursename": "Basic C++"
+    }
+  ]
