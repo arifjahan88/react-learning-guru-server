@@ -15,6 +15,22 @@ app.get("/coursecategories", (req, res) => {
   res.send(courseCategories);
 });
 
+app.get("/courseCategories/:id", (req, res) => {
+  const id = req.params.id;
+  const category = courseDetails.filter(
+    (details) => details.category_id === id
+  );
+  res.send(category);
+});
+app.get("/coursedetails", (req, res) => {
+  res.send(courseDetails);
+});
+app.get("/coursedetails/:id", (req, res) => {
+  const id = req.params.id;
+  const selectcourses = courseDetails.find((select) => select.id === id);
+  res.send(selectcourses);
+});
+
 app.listen(port, () => {
   console.log("Courses Server is Running");
 });
