@@ -102,5 +102,57 @@
       },
       "image_url": "https://codesposts.com/wp-content/uploads/2019/09/python.png",
       "details": "The string is a data type in Python. Strings in Python programming language are arrays of bytes representing a sequence of characters. In simple terms, Strings are the combination or collection of characters enclosed in quotes. Strings are one of the most used data types in any programming language because most of the real-world data such as name, address, or any sequence which contains alphanumeric characters are mostly of type ‘String’."
+    },
+    {
+      "id": "0880",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Inroduction for basic Programming",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png",
+      "details": "BASIC programming has a long history as the computer programming language of choice for beginners. It has been used since the 1960s to simplify communication between the programmer and the computer. This computer language has been widely imitated and altered, and it is currently most well-known as Visual Basic."
+    },
+    {
+      "id": "0990",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Machine Learning Expert | Courses",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://aqi.co.id/wp-content/uploads/2021/03/apa-itu-machine-learning.jpg",
+      "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. IBM has a rich history with machine learning."
+    },
+    {
+      "id": "1001",
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Basic to Expert with java program",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://mpng.subpng.com/20180517/bce/kisspng-java-runtime-environment-software-development-kit-5afdf2eb843ce5.8367355515265922355417.jpg",
+      "details": "What is Java programming used for? Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices. Java is the world's third most popular programming language, after Python and C – according to the TIOBE index, which evaluates programming language popularity."
+    },
+    {
+      "id": "2002",
+      "category_id": "08",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "C++ Tutorials for Beginners",
+      "author": {
+        "name": "Arif Jahan",
+        "published_date": "2022-10-26"
+      },
+      "image_url": "https://miro.medium.com/max/1400/0*Zn_HDykxaSmwBcEq.png",
+      "details": "C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory. The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20."
     }
 ]
