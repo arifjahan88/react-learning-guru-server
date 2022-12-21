@@ -1,42 +1,42 @@
 [
-    {
-      "id": "01",
-      "coursename": "Web Development",
-      "imageurl": "https://siteadmin.entasher.com/Images/actualsize/2021/12/news_fb96dcb1c0ed4cebb55109971541798c.png"
-    },
-    {
-      "id": "02",
-      "coursename": "Mobile Development",
-      "imageurl": "https://www.seekpng.com/png/detail/252-2527672_mobile-application-development-mobile-app-and-web-development.png"
-    },
-    {
-      "id": "03",
-      "coursename": "Beat Python",
-      "imageurl": "https://miro.medium.com/max/1200/1*eApZ815ncLw0lx8sUaV2Qg.png"
-    },
-    {
-      "id": "04",
-      "coursename": "Basic Programming",
-      "imageurl": "https://miro.medium.com/proxy/0*dYhf8eD1sNuG49Wf.png"
-    },
-    {
-      "id": "05",
-      "coursename": "Machine Learning",
-      "imageurl": "https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png"
-    },
-    {
-      "id": "06",
-      "coursename": "Competitive Programming",
-      "imageurl": "https://miro.medium.com/max/1000/1*OhrAmSvpDWk0gzb_08PkhQ.png"
-    },
-    {
-      "id": "07",
-      "coursename": "Basic Java",
-      "imageurl": "https://pngroyale.com/wp-content/uploads/2022/03/Programming-Language-PNG-Download-Image.png"
-    },
-    {
-      "id": "08",
-      "coursename": "Basic C++",
-      "imageurl": "https://miro.medium.com/max/1200/1*mDKusLBkGKBWW4aycK4PCA.png"
-    }
-  ]
+  {
+    "id": "01",
+    "coursename": "Web Development",
+    "imageurl": "https://siteadmin.entasher.com/Images/actualsize/2021/12/news_fb96dcb1c0ed4cebb55109971541798c.png"
+  },
+  {
+    "id": "02",
+    "coursename": "Mobile Development",
+    "imageurl": "https://siteadmin.entasher.com/Images/actualsize/2021/12/news_fb96dcb1c0ed4cebb55109971541798c.png"
+  },
+  {
+    "id": "03",
+    "coursename": "Beat Python",
+    "imageurl": "https://www.pngitem.com/pimgs/m/159-1595908_python-java-computer-programming-programming-language-python-3.png"
+  },
+  {
+    "id": "04",
+    "coursename": "Basic Programming",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKvb47iGErnHgzVmBa4kKp-7tTwWUl6d23sw&usqp=CAU"
+  },
+  {
+    "id": "05",
+    "coursename": "Machine Learning",
+    "imageurl": "https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png"
+  },
+  {
+    "id": "06",
+    "coursename": "Programming",
+    "imageurl": "https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png"
+  },
+  {
+    "id": "07",
+    "coursename": "Basic Java",
+    "imageurl": "https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png"
+  },
+  {
+    "id": "08",
+    "coursename": "Basic C++",
+    "imageurl": "https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png"
+  }
+]

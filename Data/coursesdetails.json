@@ -1,158 +1,158 @@
 [
-    {
-      "id": "0110",
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Introduction to JavaScript",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
-      "details": "Programming is a way to talk to computers. A language like Hindi, English or Bengali can be used to talk to a human but for computers we need straightforward instructions. How to execute JavaScript? JavaScript can be executed right inside one's browser. You can open the JavaScript console and start writing JavaScript there.Another way to execute JavaScript is a runtime like Node.js which can be installed and used to run JavaScript code.Yet another way to execute JavaScript is by inserting it inside <script> tag of an HTML document."
+  {
+    "id": "0110",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Introduction to JavaScript",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0220",
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 500,
-      "title": "Variables in JavaScript | JavaScript Courses",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
-      "details": "What is a Variable? A variable is a container that stores a value. This is very similar to the containers used to store rice, water and oats (Treat this as an analogy!) The value of a JavaScript variable can be changed during the execution of a program. Rules for choosing variables names Letters, digits, underscores and $ sign allowed. Must begin with a $, _ or a letter. JavaScript reserved words cannot be used as a variable name. Harry & haRRy are different variables (case sensitive)"
+    "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
+    "details": "Programming is a way to talk to computers. A language like Hindi, English or Bengali can be used to talk to a human but for computers we need straightforward instructions. How to execute JavaScript? JavaScript can be executed right inside one's browser. You can open the JavaScript console and start writing JavaScript there.Another way to execute JavaScript is a runtime like Node.js which can be installed and used to run JavaScript code.Yet another way to execute JavaScript is by inserting it inside <script> tag of an HTML document."
+  },
+  {
+    "id": "0220",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 500,
+    "title": "Variables in JavaScript | JavaScript Courses",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0330",
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 658,
-      "title": "Primitives and Objects in JavaScript | JavaScript Courses",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://www.freecodecamp.org/news/content/images/2022/01/Purple-Minimal-We-Are-Hiring-Twitter-Post-1.gif",
-      "details": "Primitive Data Types are a set of basic data types in JavaScript. Object is a non-primitive datatype in JavaScript. These are 7 primitive datatypes in JavaScript: Null Number String Symbol Undefined Boolean BigInt Object An object in JavaScript can be created as follows:"
+    "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
+    "details": "What is a Variable? A variable is a container that stores a value. This is very similar to the containers used to store rice, water and oats (Treat this as an analogy!) The value of a JavaScript variable can be changed during the execution of a program. Rules for choosing variables names Letters, digits, underscores and $ sign allowed. Must begin with a $, _ or a letter. JavaScript reserved words cannot be used as a variable name. Harry & haRRy are different variables (case sensitive)"
+  },
+  {
+    "id": "0330",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 658,
+    "title": "Primitives and Objects in JavaScript | JavaScript Courses",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0440",
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "JavaScript Operators and Expressions | JavaScript Courses",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://images.ctfassets.net/pzhspng2mvip/6mejefuDxsYa3HwYGjFAky/9c155339607084aa5e96240e30564c68/part-one-new.png?w=800&q=50",
-      "details": "Comments in JavaScript Sometimes we want our programs to contain a text which is not executed by the JS Engine. Such a text is called comment in JavaScript."
+    "image_url": "https://www.freecodecamp.org/news/content/images/2022/01/Purple-Minimal-We-Are-Hiring-Twitter-Post-1.gif",
+    "details": "Primitive Data Types are a set of basic data types in JavaScript. Object is a non-primitive datatype in JavaScript. These are 7 primitive datatypes in JavaScript: Null Number String Symbol Undefined Boolean BigInt Object An object in JavaScript can be created as follows:"
+  },
+  {
+    "id": "0440",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "JavaScript Operators and Expressions | JavaScript Courses",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0550",
-      "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Linear Layout & Relative Layout In Android | Android Courses",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://www.kindpng.com/picc/m/478-4789401_web-development-illustration-png-transparent-png.png",
-      "details": "Use Linear Layout when you want group of widgets to be aligned in one direction. Linear Layout will be an ideal choice while designing a form. There are two types of linear layout orientatons: vertical orientation and horizontal orientation. Linear layout also supports layout_weight attribute for its children individually (each child has its own layout_weight attribute), larger the value of a widget’s  layout_weight more will be the space taken by that widget. Use Relative Layout when you want  widgets to be in a relative position to siblings (other widgets within the same relative layout). Relative layout is a bit complex to use and is not used by developers these days."
+    "image_url": "https://images.ctfassets.net/pzhspng2mvip/6mejefuDxsYa3HwYGjFAky/9c155339607084aa5e96240e30564c68/part-one-new.png?w=800&q=50",
+    "details": "Comments in JavaScript Sometimes we want our programs to contain a text which is not executed by the JS Engine. Such a text is called comment in JavaScript."
+  },
+  {
+    "id": "0550",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Linear Layout & Relative Layout In Android | Android Courses",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0660",
-      "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Android activity & Activity Lifecycle | Android Courses",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg",
-      "details": "In layman language activity can be explained as a screen which we see when we open an application and we navigate from one activity to another by click on buttons. It is the activity that we interact with , when we open our application. suppose you share the video of codewithharry channel on youtube to your friends  than you click on share and it will navigatwe you to the whatsapp (another activity). An appliation has atleast has one activity .  An activity has various stages in its lifecycle.To transit from one stage to the other stage of the activity lifecycle activity class has six methods which are overrided by the developers according to the need.These methods are termed as allbacks. The six callbacks are : onCreate(): It displays the UI given in the XML file when the activity starts . It calls the SetContentView() method. onStart(): when our activity is in process to be displayed this callback method is called .And after this method onResume() callback is called. onResume() :The core functionality of application is written within this callback method.When the activity is just about to be displayed this callback method is called .Suppose if you start a new activity that hides the already ongoing activity , onResume() is called when the activity that was hidden comes back to the view on the screen again. onPause(): The code you want to be executed when app is being paused (minimised ) should be wriiten in this callback method and when the user resumes to the application onResume() callback method will be called again. onStop(): when an activity is being minimised onPause() callback is immediately called and after a few miliseconds onStop will be called.onStop() will stop the API calls of the application. onDestroy(): onDestroy callback is to be called when you need to shutdown all the operations . onPause(), onStop() & onDestroy() are three callback methods which are called while our activity is being launched. Every Android project must have AndroidManifest.xml . And it contains the information regarding the packages , class names , the permissions that app needs,hardware and software features that app requires for the device in which it will be installed . All the information regarding how app is being structured is within this file."
+    "image_url": "https://www.kindpng.com/picc/m/478-4789401_web-development-illustration-png-transparent-png.png",
+    "details": "Use Linear Layout when you want group of widgets to be aligned in one direction. Linear Layout will be an ideal choice while designing a form. There are two types of linear layout orientatons: vertical orientation and horizontal orientation. Linear layout also supports layout_weight attribute for its children individually (each child has its own layout_weight attribute), larger the value of a widget’s  layout_weight more will be the space taken by that widget. Use Relative Layout when you want  widgets to be in a relative position to siblings (other widgets within the same relative layout). Relative layout is a bit complex to use and is not used by developers these days."
+  },
+  {
+    "id": "0660",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Android activity & Activity Lifecycle | Android Courses",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0660",
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Using Modules & Pip In Python",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://codesposts.com/wp-content/uploads/2019/09/python.png",
-      "details": "Sometimes we have to use someone else's code in our program because it saves us a lot of time. Today, we will learn a technique to use code that is not written by us but will enhance the quality of our program, save us time and energy, and of course, it is legal and free. Let us understand what utilities like modules and pip are, Module – Module or library is a file that contains definitions of several functions, classes, variables, etc., which is written by someone else for us to use. Pip – Pip is a package manager for Python, i.e., pip command can be used to download any external module in Python. It is something that helps us to get code written by someone else. We can install a module in our system by using the pip command : Open cmd or Powershell in your system. And then, type pip install module_name and press enter. Once you do that, the module will start downloading and will install automatically on your computer."
+    "image_url": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg",
+    "details": "In layman language activity can be explained as a screen which we see when we open an application and we navigate from one activity to another by click on buttons. It is the activity that we interact with , when we open our application. suppose you share the video of codewithharry channel on youtube to your friends  than you click on share and it will navigatwe you to the whatsapp (another activity). An appliation has atleast has one activity .  An activity has various stages in its lifecycle.To transit from one stage to the other stage of the activity lifecycle activity class has six methods which are overrided by the developers according to the need.These methods are termed as allbacks. The six callbacks are : onCreate(): It displays the UI given in the XML file when the activity starts . It calls the SetContentView() method. onStart(): when our activity is in process to be displayed this callback method is called .And after this method onResume() callback is called. onResume() :The core functionality of application is written within this callback method.When the activity is just about to be displayed this callback method is called .Suppose if you start a new activity that hides the already ongoing activity , onResume() is called when the activity that was hidden comes back to the view on the screen again. onPause(): The code you want to be executed when app is being paused (minimised ) should be wriiten in this callback method and when the user resumes to the application onResume() callback method will be called again. onStop(): when an activity is being minimised onPause() callback is immediately called and after a few miliseconds onStop will be called.onStop() will stop the API calls of the application. onDestroy(): onDestroy callback is to be called when you need to shutdown all the operations . onPause(), onStop() & onDestroy() are three callback methods which are called while our activity is being launched. Every Android project must have AndroidManifest.xml . And it contains the information regarding the packages , class names , the permissions that app needs,hardware and software features that app requires for the device in which it will be installed . All the information regarding how app is being structured is within this file."
+  },
+  {
+    "id": "0660",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Using Modules & Pip In Python",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0770",
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "String Slicing And Other Functions In Python",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://codesposts.com/wp-content/uploads/2019/09/python.png",
-      "details": "The string is a data type in Python. Strings in Python programming language are arrays of bytes representing a sequence of characters. In simple terms, Strings are the combination or collection of characters enclosed in quotes. Strings are one of the most used data types in any programming language because most of the real-world data such as name, address, or any sequence which contains alphanumeric characters are mostly of type ‘String’."
+    "image_url": "https://codesposts.com/wp-content/uploads/2019/09/python.png",
+    "details": "Sometimes we have to use someone else's code in our program because it saves us a lot of time. Today, we will learn a technique to use code that is not written by us but will enhance the quality of our program, save us time and energy, and of course, it is legal and free. Let us understand what utilities like modules and pip are, Module – Module or library is a file that contains definitions of several functions, classes, variables, etc., which is written by someone else for us to use. Pip – Pip is a package manager for Python, i.e., pip command can be used to download any external module in Python. It is something that helps us to get code written by someone else. We can install a module in our system by using the pip command : Open cmd or Powershell in your system. And then, type pip install module_name and press enter. Once you do that, the module will start downloading and will install automatically on your computer."
+  },
+  {
+    "id": "0770",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "String Slicing And Other Functions In Python",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0880",
-      "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Inroduction for basic Programming",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png",
-      "details": "BASIC programming has a long history as the computer programming language of choice for beginners. It has been used since the 1960s to simplify communication between the programmer and the computer. This computer language has been widely imitated and altered, and it is currently most well-known as Visual Basic."
+    "image_url": "https://codesposts.com/wp-content/uploads/2019/09/python.png",
+    "details": "The string is a data type in Python. Strings in Python programming language are arrays of bytes representing a sequence of characters. In simple terms, Strings are the combination or collection of characters enclosed in quotes. Strings are one of the most used data types in any programming language because most of the real-world data such as name, address, or any sequence which contains alphanumeric characters are mostly of type ‘String’."
+  },
+  {
+    "id": "0880",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Inroduction for basic Programming",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "0990",
-      "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Machine Learning Expert | Courses",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://aqi.co.id/wp-content/uploads/2021/03/apa-itu-machine-learning.jpg",
-      "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. IBM has a rich history with machine learning."
+    "image_url": "https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png",
+    "details": "BASIC programming has a long history as the computer programming language of choice for beginners. It has been used since the 1960s to simplify communication between the programmer and the computer. This computer language has been widely imitated and altered, and it is currently most well-known as Visual Basic."
+  },
+  {
+    "id": "0990",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Machine Learning Expert | Courses",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "1001",
-      "category_id": "07",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Basic to Expert with java program",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://mpng.subpng.com/20180517/bce/kisspng-java-runtime-environment-software-development-kit-5afdf2eb843ce5.8367355515265922355417.jpg",
-      "details": "What is Java programming used for? Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices. Java is the world's third most popular programming language, after Python and C – according to the TIOBE index, which evaluates programming language popularity."
+    "image_url": "https://aqi.co.id/wp-content/uploads/2021/03/apa-itu-machine-learning.jpg",
+    "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. IBM has a rich history with machine learning."
+  },
+  {
+    "id": "1001",
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Basic to Expert with java program",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
     },
-    {
-      "id": "2002",
-      "category_id": "08",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "C++ Tutorials for Beginners",
-      "author": {
-        "name": "Arif Jahan",
-        "published_date": "2022-10-26"
-      },
-      "image_url": "https://miro.medium.com/max/1400/0*Zn_HDykxaSmwBcEq.png",
-      "details": "C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory. The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20."
-    }
+    "image_url": "https://siteadmin.entasher.com/Images/actualsize/2021/12/news_fb96dcb1c0ed4cebb55109971541798c.png",
+    "details": "What is Java programming used for? Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices. Java is the world's third most popular programming language, after Python and C – according to the TIOBE index, which evaluates programming language popularity."
+  },
+  {
+    "id": "2002",
+    "category_id": "08",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "C++ Tutorials for Beginners",
+    "author": {
+      "name": "Arif Jahan",
+      "published_date": "2022-10-26"
+    },
+    "image_url": "https://siteadmin.entasher.com/Images/actualsize/2021/12/news_fb96dcb1c0ed4cebb55109971541798c.png",
+    "details": "C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory. The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20."
+  }
 ]
